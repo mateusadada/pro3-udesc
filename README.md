@@ -27,7 +27,7 @@
 > [!NOTE]
 > In development
 
-This repository contains the solved exercises from Programming 3 course in the fourth semester.
+This repository contains the solved exercises from Programming 3 course in the fifth semester.
 
 The exercises were solved within the [VPL](https://vpl.dis.ulpgc.es/) because of the college. It is a platform that offers a virtual environment for teaching and practicing programming, allowing users to develop and execute code in various languages directly in the browser. It was fundamental to improve my knowledge in this language and it also helped with my Bachelor's Degree in Information Systems at [UDESC](https://www.udesc.br/).
 
