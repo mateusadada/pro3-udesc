@@ -9,6 +9,7 @@
    color: #000000;
    border: 2px solid black;
    padding: 4px;
+   align-items: center;
 }
 
 .WhiteCell {
