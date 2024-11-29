@@ -2,7 +2,7 @@
 > The repository and README are under development.
 
 <h1 align="center">Programming 3 - UDESC</h1>
-<div align="center"><i>A complete list of solved exercises</i><br><br>
+<div align="center"><i>A complete list of solved exercises and the final project</i><br><br>
 <a href="https://github.com/mateusadada/pro3-udesc/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/pro3-udesc" alt="Stars Badge"/></a>
 <a href="https://github.com/mateusadada/pro3-udesc/network/members"><img src="https://img.shields.io/github/forks/mateusadada/pro3-udesc" alt="Forks Badge"/></a>
 <a href="https://github.com/mateusadada/pro3-udesc/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/pro3-udesc" alt="Pull Requests Badge"/></a>
