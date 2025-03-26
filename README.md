@@ -1,8 +1,5 @@
-> [!IMPORTANT]
-> The repository and README are under development.
-
 <h1 align="center">Programming 3 - UDESC</h1>
-<div align="center"><i>A complete list of solved exercises and the final project</i><br><br>
+<div align="center"><i>A complete list of solved exercises</i><br><br>
 <a href="https://github.com/mateusadada/pro3-udesc/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/pro3-udesc" alt="Stars Badge"/></a>
 <a href="https://github.com/mateusadada/pro3-udesc/network/members"><img src="https://img.shields.io/github/forks/mateusadada/pro3-udesc" alt="Forks Badge"/></a>
 <a href="https://github.com/mateusadada/pro3-udesc/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/pro3-udesc" alt="Pull Requests Badge"/></a>
@@ -24,19 +21,20 @@
 
 ## 🚀 Starting
 
-> [!NOTE]
-> In development
-
 This repository contains the solved exercises from Programming 3 course in the fifth semester.
 
 The exercises were solved within the [VPL](https://vpl.dis.ulpgc.es/) because of the college. It is a platform that offers a virtual environment for teaching and practicing programming, allowing users to develop and execute code in various languages directly in the browser. It was fundamental to improve my knowledge in this language and it also helped with my Bachelor's Degree in Information Systems at [UDESC](https://www.udesc.br/).
 
 ## 📚 Features
 
-> [!NOTE]
-> In development
-
 Used during the evolution of exercises:
+
+- Introduction to the course and teaching methodologies.
+- MVC architectural pattern and layered development.
+- Database basics, SQL, and connection via drivers and ORM.
+- Web server development with HTML, CSS, JavaScript, and frameworks.
+- React Native: graphical interface, event handling, layered development (MVC), exception handling, and image manipulation.
+- Data persistence on mobile devices with text, binary files, JSON, XML, and web server integration.
 
 ## 📋 Prerequisites
 
